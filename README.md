@@ -1,3 +1,3 @@
 # scripts
-Scripts
-Hola soy el README de este repositorio
+Hola soy el README de este repositorio llamado Scripts.
+jajasalu2
